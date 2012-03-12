@@ -257,7 +257,7 @@
 		tt <- tktoplevel()
 		tkwm.title(tt,"Group parameters")	
 	#
-	# Variables for text fields (thanks to Peter Delgaard :)
+	# Variables for text fields (thanks to Peter Dalgaard :)
 	# http://finzi.psych.upenn.edu/R/Rhelp02a/archive/71791.html
 	# [R] Building tkentry dynamicly from Peter Dalgaard on 2006-03-07 (2006-March.txt)
 	#
