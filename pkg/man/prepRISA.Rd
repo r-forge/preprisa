@@ -4,6 +4,7 @@
 \alias{prepRISA.CLI}
 \alias{prepRISA.GUI}
 \alias{prepRISAfun}
+\alias{repClass}
 
 \title{Preparation of RISA statistical data anlysis}
 
@@ -71,8 +72,12 @@ Spacer Analysis) fingerprints: biological and methodological variability.
 \emph{Applied and Environmental Microbiology}, \bold{67}, 4479-4487.
 }
 
+\seealso{
+\code{\link{RISAtab}} for an example of RISA data.
+}
+
 \author{
-Jean Thioulouse \email{jthioulouse@biomserv.univ-lyon1.fr} \cr
+Jean Thioulouse \email{jean.thioulouse at univ-lyon1.fr} \cr
 }
 
 \examples{

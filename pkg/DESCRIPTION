@@ -1,9 +1,13 @@
 Package: prepRISA
-Version: 0.1-3
-Date: 2009/11/23
+Version: 0.1-4
+Date: 2012/03/28
 Title: prepRISA
 Author: Jean Thioulouse <jthioulouse@biomserv.univ-lyon1.fr>
 Maintainer: Jean Thioulouse <jthioulouse@biomserv.univ-lyon1.fr>
 Depends: tcltk
 Description: a package to prepare RISA data for multivariate analysis
-License: GPL version 2 or newer
+License: GPL (>= 2)
+Repository: R-Forge
+Repository/R-Forge/Project: preprisa
+Repository/R-Forge/Revision: 9
+Packaged: 2012-03-27 09:47:39 UTC; jthioulo
